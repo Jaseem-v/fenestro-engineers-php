@@ -1186,3 +1186,17 @@ section.t-bq-section {
         }
     }
 }
+
+.products__drop {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 5rem;
+    background: #FAFAFA;
+    padding: 1rem ;
+
+    .booking__input {
+        width: auto;
+        margin-bottom: 0;
+    }
+}
